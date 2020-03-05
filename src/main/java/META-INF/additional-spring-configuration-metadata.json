@@ -1,0 +1,92 @@
+{"properties": [
+  {
+    "name": "mqtt.broker.host",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.broker.host'"
+  },
+  {
+    "name": "mqtt.broker.port",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.broker.port'"
+  },
+  {
+    "name": "mqtt.broker.user",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.broker.user'"
+  },
+  {
+    "name": "mqtt.broker.password",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.broker.password'"
+  },
+  {
+    "name": "mqtt.broker.client-id",
+    "type": "java.lang.String",
+    "description": "A description for 'mqtt.broker.client-id'"
+  },
+  {
+    "name": "application.mail-reports.notify-on-startup",
+    "type": "java.lang.String",
+    "description": "A description for 'application.mail-reports.notify-on-startup'"
+  },
+  {
+    "name": "application.mail-reports.daily-reports",
+    "type": "java.lang.String",
+    "description": "A description for 'application.mail-reports.daily-reports'"
+  },
+  {
+    "name": "application.mail-reports.admins",
+    "type": "java.lang.String",
+    "description": "A description for 'application.mail-reports.admins'"
+  },
+  {
+    "name": "application.mail.base-url",
+    "type": "java.lang.String",
+    "description": "A description for 'application.mail.base-url'"
+  },
+  {
+    "name": "application.cors.allowed-origins",
+    "type": "java.lang.String",
+    "description": "A description for 'application.cors.allowed-origins'"
+  },
+  {
+    "name": "application.cors.allowed-methods",
+    "type": "java.lang.String",
+    "description": "A description for 'application.cors.allowed-methods'"
+  },
+  {
+    "name": "application.cors.allowed-headers",
+    "type": "java.lang.String",
+    "description": "A description for 'application.cors.allowed-headers'"
+  },
+  {
+    "name": "application.cors.max-age",
+    "type": "java.lang.String",
+    "description": "A description for 'application.cors.max-age'"
+  },
+  {
+    "name": "application.cors.allow-credentials",
+    "type": "java.lang.String",
+    "description": "A description for 'application.cors.allow-credentials'"
+  },
+  {
+    "name": "application.cors.exposed-headers",
+    "type": "java.lang.String",
+    "description": "A description for 'application.cors.exposed-headers'"
+  },
+  {
+    "name": "application.security.authentication.jwt.token-validity-in-seconds",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.authentication.jwt.token-validity-in-seconds'"
+  },
+  {
+    "name": "application.security.authentication.jwt.token-validity-in-seconds-for-remember-me",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.authentication.jwt.token-validity-in-seconds-for-remember-me'"
+  },
+  {
+    "name": "application.security.authentication.jwt.base64-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'application.security.authentication.jwt.base64-secret'"
+  }
+]}
